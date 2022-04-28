@@ -1,0 +1,3 @@
+cd C:\Users\229023\Documents\ツール\自作\TimeKeeper\ver0.1.1
+cxfreeze -c setup.py --target -dir build
+py setup.py build
